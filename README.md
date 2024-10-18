@@ -16,7 +16,7 @@ The following algorithms are implemented in the CIA-1 file:
 8. **Branch and Bound+DHP**
 9. **Branch and Bound+Estimates**
 10. **Best First Search**
-11.- **AO* Algorithm**
+11. **AO* Algorithm**
 12. **A* Algorithm**
 
 ### Example Graph Structure
