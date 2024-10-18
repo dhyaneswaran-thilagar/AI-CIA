@@ -13,11 +13,11 @@ The following algorithms are implemented in the CIA-1 file:
 5. **Beam Search**
 6. **Oracle**
 7. **Branch and Bound Algorithm**
-   - Greedy
-   - Greedy and Exit
-   - Greedy and Heuristics
-   - Heuristics
-8. **A* Algorithm**
+8. **Branch and Bound+DHP**
+9. **Branch and Bound+Estimates**
+10. **Best First Search**
+11.- **AO* Algorithm**
+12. **A* Algorithm**
 
 ### Example Graph Structure
 
