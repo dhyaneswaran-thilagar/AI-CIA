@@ -1,4 +1,4 @@
-# CIA Algorithms
+# AI CIA 1 AND 2 
 
 This repository contains implementations of various search algorithms and the Alpha-Beta pruning technique in C++.
 
