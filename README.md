@@ -1,6 +1,6 @@
 # AI CIA 1 AND 2 
 
-This repository contains implementations of various search algorithms and the Alpha-Beta pruning technique in C++.
+This repository contains implementations of various search algorithms and the Alpha-Beta pruning techniques in C++.
 
 ## CIA-1: Search Algorithms
 
@@ -45,9 +45,9 @@ The algorithms are demonstrated using the following graph structure:
         {'E', 4},
         {'G', 0}
     };
-## CIA-2: Alpha Beta Pruning
+## CIA-2: Min-Max and Alpha Beta Pruning
 
-The CIA-2 file consists of the alpha-beta pruning code in C++. The follwoing example is used to run the code:
+The CIA-2 file consists of Min-Max and alpha-beta pruning code in C++. The follwoing example is used to run the code:
 
 ![graph-i-used](https://github.com/user-attachments/assets/c84db68c-bdfd-4f39-bcf0-c266ecd2d48c)
 
