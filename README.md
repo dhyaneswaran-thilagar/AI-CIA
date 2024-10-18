@@ -22,6 +22,7 @@ The following algorithms are implemented in the CIA-1 file:
 ### Example Graph Structure
 
 The algorithms are demonstrated using the following graph structure:
+
 ![graph-i-used](https://github.com/user-attachments/assets/0bae0dcb-e6e5-4150-9f9e-8ced61095ad8)
 
 
@@ -47,6 +48,7 @@ The algorithms are demonstrated using the following graph structure:
 ## CIA-2: Alpha Beta Pruning
 
 The CIA-2 file consists of the alpha-beta pruning code in C++. The follwoing example is used to run the code:
+
 ![graph-i-used](https://github.com/user-attachments/assets/c84db68c-bdfd-4f39-bcf0-c266ecd2d48c)
 
 
