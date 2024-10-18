@@ -37,12 +37,12 @@ The algorithms are demonstrated using the following graph structure:
     };
 
   heuristics = {
-        {'S', 10},
+        {'S', 11},
         {'A', 7},
         {'B', 6},
-        {'C', 4},
-        {'D', 3},
-        {'E', 2},
+        {'C', 7},
+        {'D', 5},
+        {'E', 4},
         {'G', 0}
     };
 ## CIA-2: Alpha Beta Pruning
