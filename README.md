@@ -47,7 +47,7 @@ The algorithms are demonstrated using the following graph structure:
     };
 ## CIA-2: Min-Max and Alpha Beta Pruning
 
-The CIA-2 file consists of Min-Max and alpha-beta pruning code in C++. The follwoing example is used to run the code:
+The CIA-2 file consists of Min-Max and alpha-beta pruning code in C++. The following example is used to run the code:
 
 ![graph-i-used](https://github.com/user-attachments/assets/c84db68c-bdfd-4f39-bcf0-c266ecd2d48c)
 
